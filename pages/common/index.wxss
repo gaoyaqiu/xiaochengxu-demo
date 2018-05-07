@@ -1,0 +1,33 @@
+.index-hd {
+  padding: 80rpx;
+  text-align: center
+}
+.index-log {
+  width: 86rpx;
+  height: 86rpx;
+}
+.index-desc {
+  margin-top: 20rpx;
+  color: #888888;
+  font-size: 28rpx;
+}
+.index-bd {
+  padding: 0 30rpx 40rpx;
+}
+
+.kind-list-item {
+  margin: 20rpx 0;
+  background-color: #FFFFFF;
+  border-radius: 4rpx;
+  overflow: hidden;
+}
+.kind-list-item:first-child {
+  margin-top: 0;
+}
+.kind-list-text{
+  flex: 1;
+}
+.kind-list-img {
+  width: 60rpx;
+  height: 60rpx;
+}
